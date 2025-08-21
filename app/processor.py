@@ -70,5 +70,3 @@ class Processor:
         self.add_sentiment()
         self.add_weapon(blacklist)
         return self.df
-
-
